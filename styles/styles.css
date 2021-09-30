@@ -2,3 +2,43 @@ body {
     background-image: url(../img/gplaypattern.png);
     background-repeat: initial;
 }
+
+header {
+    background-color: rgba(50, 100, 67, 0.25);
+    border-radius: 10px;
+    height: 60px;
+    box-shadow: 0px 0px 5px 1px rgb(128, 121, 122);
+}
+
+#toggleMobileMenu a {
+    font-family: Verdana;
+    text-decoration: none;
+    color:  rgb(65, 60, 61);
+    margin-left: 50px;    
+}
+
+/*https://www.youtube.com/watch?v=FEmysQARWFU used this video to make a hover over animation using pseudo class elements */
+
+#toggleMobileMenu a:hover {
+    text-decoration: none;
+    color: rgb(232, 255, 225);
+}
+
+#toggleMobileMenu a::before {
+    
+    content: '';
+    display: block;
+    height: 3px; 
+    text-decoration: none;
+    background-color: rgb(232, 255, 225);
+    top: 0;
+    width: 0%;
+    transition: all ease-in-out 200ms;
+}
+
+#toggleMobileMenu a:hover::before {
+    text-decoration: none;
+    width: 100%;
+}
+
+
