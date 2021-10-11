@@ -144,10 +144,9 @@ header {
 
 .aboutMe {
     display: flex;
-    justify-content: space-around;
-    margin-top: 5%;
-    margin-left: 2%;
-    margin-right: 2%;
+    margin-top: 20px;
+    padding: 15px;    
+    max-width: 90%;
     position: relative;
     text-decoration: none;
     background-color: rgba(50, 100, 67, 0.25);
@@ -156,9 +155,12 @@ header {
 }
 
 .img-about {
-    height: 100%;
+    min-height: 400px;
     width: 100%;
     background-image: url(../img/img-about.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 #aboutMe {
@@ -194,4 +196,74 @@ header {
     margin-left: 10px;
     margin-right: 10px;
     box-shadow: 0px 0px 5px 1px rgb(128, 121, 122);       
+}
+
+/* https://www.youtube.com/watch?v=Db5jCkrVgAw responsive contact form */
+
+.flex-container-contact {
+    position: relative;    
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 10%;
+    left:20%;
+    right:20%;
+    width: 60%;
+    padding: 20px;
+    background-color: rgba(50, 100, 67, 0.25);
+    border-radius: 10px;
+    font-family: Verdana; 
+    font-size: 0.5vw;
+    color:  rgb(65, 60, 61);
+    box-shadow: 0px 0px 5px 1px rgb(128, 121, 122);
+} 
+
+.contact-me {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    width: 60%;
+    height: 100%;
+
+}
+
+h2 {
+    position: relative;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.field {
+    width: 100%;
+    padding: 3px;
+    border-radius: 5px;
+    background-color: rgb(210, 233, 203);
+    font-size: 0.5vw;
+    margin-bottom: 25px;
+}
+
+.field:hover {
+    background-color: rgb(232, 255, 225);
+}
+
+.area {
+    min-height: 200px;
+}
+
+.btn { 
+    width: 30%;
+    padding: 5px;
+    font-size: 0.5vw;
+    background-color: rgb(106, 179, 84);
+    border:  rgb(65, 60, 61) solid 0.5px;
+    border-radius: 5px;
+    
+}
+
+.btn:hover {
+    background-color: rgb(232, 255, 225);
+    cursor: pointer; 
 }
