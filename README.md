@@ -43,7 +43,7 @@ I drew my wireframes in Paint, kept it very simple.
 I used Mozilla Firefox Development tools to test changes that I made to my website and to ensure that it appeared in the desired way on different screen sizes. 
 I also used [W3C HTML Validator tool](https://validator.w3.org/) and [W3C CSS Validator tool](https://jigsaw.w3.org/css-validator/) to test my HTML and CSS code. 
 
-###Deployment
+### Deployment
 
 The hosting platform that I've used for my project is GitHub Pages. To deploy my website to GitHub pages, I used the following steps:
 
@@ -60,11 +60,11 @@ The hosting platform that I've used for my project is GitHub Pages. To deploy my
 - Selected the 'master branch' option under the 'GitHub Pages' section.
 - Ran several regular commits throughout my project.
 
-##Repository Link
+## Repository Link
 
 [https://github.com/Gorillosa/project-portfolio-1.1](https://github.com/Gorillosa/project-portfolio-1.1)
 
-##Running Code Locally
+## Running Code Locally
 
 To run my code locally, users can download a local copy of my code to their desktop by completing the following steps:
 
