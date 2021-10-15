@@ -83,7 +83,7 @@ header {
         display:flex;
         justify-content: center;
         margin-top: 50px;
-        width: 800px;
+        width: 775px;
         padding: 20px;
         background-color: rgba(50, 100, 67, 0.25);
         border-radius: 10px;
@@ -257,7 +257,7 @@ header {
     align-items: center;
     text-align: center;
     flex-direction: column;
-    width: 100%;
+    width: 90%;
     height: 60%;
 
 }
