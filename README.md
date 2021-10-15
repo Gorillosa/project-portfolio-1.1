@@ -47,29 +47,18 @@ I also used [W3C HTML Validator tool](https://validator.w3.org/) and [W3C CSS Va
 
 The hosting platform that I've used for my project is GitHub Pages. To deploy my website to GitHub pages, I used the following steps:
 
-    -Loaded the terminal window in my Cloud9 workspace.
-
-    -Initialised Git using the git init command.
-
-    -Added all files to the Staging area (Git) using the git add . command.
-
-    -Committed the files to Git using the git commit -m "Initial commit" command.
-
-    -Created a new repository in GitHub called 'monkees-milestone-project-one'.
-
-    -Copied the below code from GitHub into the terminal window in my Cloud9 workspace:
-
-    -git remote add origin https://github.com/hebs87/monkees-milestone-project-one.git
-
-    -git push -u origin main
-
-    -Entered my GitHub username and password to push the files from Git to GitHub.
-
-    -Went into 'Settings' on my repository page in GitHub.
-
-    -Selected the 'master branch' option under the 'GitHub Pages' section.
-
-    -Ran several regular commits throughout my project.
+-Loaded the terminal window in my Cloud9 workspace.
+-Initialised Git using the git init command.
+-Added all files to the Staging area (Git) using the git add . command.
+-Committed the files to Git using the git commit -m "Initial commit" command.
+-Created a new repository in GitHub called 'monkees-milestone-project-one'.
+-Copied the below code from GitHub into the terminal window in my Cloud9 workspace:
+-git remote add origin https://github.com/hebs87/monkees-milestone-project-one.git
+-git push -u origin main
+-Entered my GitHub username and password to push the files from Git to GitHub.
+-Went into 'Settings' on my repository page in GitHub.
+-Selected the 'master branch' option under the 'GitHub Pages' section.
+-Ran several regular commits throughout my project.
 
 ##Repository Link
 
@@ -79,9 +68,9 @@ The hosting platform that I've used for my project is GitHub Pages. To deploy my
 
 To run my code locally, users can download a local copy of my code to their desktop by completing the following steps:
 
-    -Go to my GitHub repository.
-    -Click on 'Clone or download'.
-    -Click on 'Download ZIP'.
-    -Once dowloaded, extract the zip file's contents and run my website locally.
+-Go to my GitHub repository.
+-Click on 'Clone or download'.
+-Click on 'Download ZIP'.
+-Once dowloaded, extract the zip file's contents and run my website locally.
 
 
