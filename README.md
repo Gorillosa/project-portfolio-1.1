@@ -1,33 +1,33 @@
 # Portfolio – Project 1
 
 ---
-|Paragraph|I created this website to compile project to worked on, my skills, training, and experience. It provides insight into my personality and work ethic. 
+I created this website to compile project to worked on, my skills, training, and experience. It provides insight into my personality and work ethic. 
 Users can use my website to familiarize with my work and get in contact with me. 
 
 ## UX
 ### Project Goals
 
-| Paragraph |To allow current and potential customers familiarize with my work and myself, and get in contact with me. 
+To allow current and potential customers familiarize with my work and myself, and get in contact with me. 
 
 ### User Stories
 
-| Header |**As a user I want...**
-| Paragraph |
+**As a user I want...**
+
 -	To be able easily navigate through the website and find what I’m looking for
 -	To be able to quickly send a message to the website owner
 -	
-|Header|**Wireframes**
+**Wireframes**
 
-| Paragraph |I drew my wireframes in Paint, kept it very simple.
+I drew my wireframes in Paint, kept it very simple.
 
  ## Features
 --- 
-| Paragraph |
+
 - **Navigation Bar:** The navigation bar is always fixed to the top of the page, changing to the Toggle Menu on smaller screens. Thanks to that, menu is out of the way, so the contents only take up space when the user needs to see the full menu. 
 - **Social media links:** Each link opens a new page with the relevant personal page on social media (Instagram, LinkedIn, GitHub). These links make it easy for users to access my social media profiles from one place. The social media profiles load in a new tab, which allows users to then return to the site.
 -**Contact Form:** Any visitor can easily contact me by filling out the form and submit it to send a message or enquiry. This also lets me get messages from visitors easily without revealing my email address to spammers.
 - **Footer:** The Footer includes copyright information in regards to the site.
-| Paragraph |
+
 ## Technologies Used
 --
 **HTML5**
@@ -42,7 +42,7 @@ Users can use my website to familiarize with my work and get in contact with me.
 -	I've used Git as a version control system to regularly add and commit changes made to project, before pushing them to GitHub.
 **GitHub**
 -	I've used GitHub as a remote repository to push and store the committed changes to my project from Git. I've also used GitHub pages to deploy my website in a live environment.
-| Paragraph |
+
 ## Testing 
 ---
 I used Mozilla Firefox Development tools to test changes that I made to my website and to ensure that it appeared in the desired way on different screen sizes. 
