@@ -1,12 +1,12 @@
 # Portfolio – Project 1
 
-I created this website to compile project to worked on, my skills, training, and experience. It provides insight into my personality and work ethic. 
+I created this website to compile project to worked on my skills, training, and experience. It provides insight into my personality and working style. 
 Users can use my website to familiarize with my work and get in contact with me. 
 
 ## UX
 ### Project Goals
 
-To allow current and potential customers familiarize with my work and myself, and get in contact with me. 
+To allow current and potential customers get to know my work and myself, and contact me once they decide to work with me. 
 
 ### User Stories
 
@@ -31,7 +31,7 @@ I drew my [Wireframes](https://github.com/Gorillosa/project-portfolio-1.1/tree/m
 **CSS3**
 -	The project uses CSS3 to add custom styles to the elements and content of my website.
 **Bootstrap v5.0**
--	The project uses Bootstrap v5.0 to add a responsive grid system, prebuilt components, plugins built on jQuery, and Bootstrap styles to my website, before adding my custom styles.
+-	The project uses Bootstrap v5.0 to add a responsive grid system, prebuilt components and Bootstrap styles to my website, before adding my custom styles.
 **Font Awesome**
 -	The project uses Font Awesome for the social media links.
 **Git**
