@@ -47,13 +47,13 @@ I also used [W3C HTML Validator tool](https://validator.w3.org/) and [W3C CSS Va
 
 The hosting platform that I've used for my project is GitHub Pages. I used the following steps to deploy my website to GitHub pages:
 
-- Initialised Git using the 'git init' command.
-- Added all files to the Staging area (Git) using the git 'add . command.'
-- Committed the files to Git using the 'git commit -m "Initial commit"' command.
+- Initialised Git using the `git init` command.
+- Added all files to the Staging area (Git) using the git `add .` command.
+- Committed the files to Git using the `git commit -m "Initial commit"` command.
 - Created a new repository in GitHub called 'portfolio-project-1.1'.
 - Copied the below code from GitHub into the terminal window in my workspace:
-- 'git remote add origin https://github.com/Gorillosa/project-portfolio-1.1'
-- 'git push -u origin main'
+- `git remote add origin https://github.com/Gorillosa/project-portfolio-1.1`
+- `git push -u origin main`
 - Entered my GitHub username and password to push the files from Git to GitHub.
 - Went into 'Settings' on my repository page in GitHub.
 - Selected the 'master branch' option under the 'GitHub Pages' section.
