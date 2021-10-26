@@ -17,7 +17,7 @@ To allow current and potential customers familiarize with my work and myself, an
 -	
 **Wireframes**
 
-I drew my wireframes in Paint, kept it very simple.
+I drew my [Wireframes](https://github.com/Gorillosa/project-portfolio-1.1/tree/main/Wireframes) in Paint, kept it very simple. 
 
  ## Features
 - **Navigation Bar:** The navigation bar is always fixed to the top of the page, changing to the Toggle Menu on smaller screens. Thanks to that, menu is out of the way, so the contents only take up space when the user needs to see the full menu. 
@@ -45,16 +45,15 @@ I also used [W3C HTML Validator tool](https://validator.w3.org/) and [W3C CSS Va
 
 # Deployment
 
-The hosting platform that I've used for my project is GitHub Pages. To deploy my website to GitHub pages, I used the following steps:
+The hosting platform that I've used for my project is GitHub Pages. I used the following steps to deploy my website to GitHub pages:
 
-- Loaded the terminal window in my Cloud9 workspace.
-- Initialised Git using the git init command.
-- Added all files to the Staging area (Git) using the git add . command.
-- Committed the files to Git using the git commit -m "Initial commit" command.
-- Created a new repository in GitHub called 'monkees-milestone-project-one'.
-- Copied the below code from GitHub into the terminal window in my Cloud9 workspace:
-- git remote add origin https://github.com/hebs87/monkees-milestone-project-one.git
-- git push -u origin main
+- Initialised Git using the 'git init' command.
+- Added all files to the Staging area (Git) using the git 'add . command.'
+- Committed the files to Git using the 'git commit -m "Initial commit"' command.
+- Created a new repository in GitHub called 'portfolio-project-1.1'.
+- Copied the below code from GitHub into the terminal window in my workspace:
+- 'git remote add origin https://github.com/Gorillosa/project-portfolio-1.1'
+- 'git push -u origin main'
 - Entered my GitHub username and password to push the files from Git to GitHub.
 - Went into 'Settings' on my repository page in GitHub.
 - Selected the 'master branch' option under the 'GitHub Pages' section.
