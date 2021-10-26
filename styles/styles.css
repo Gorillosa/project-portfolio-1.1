@@ -10,7 +10,7 @@ header {
     box-shadow: 0px 0px 5px 1px rgb(128, 121, 122);
 }
 
-@media (min-width: 560px) {
+@media (min-width: 990px) {
 
     #toggleMobileMenu a {
         font-family: Verdana;
@@ -49,14 +49,22 @@ header {
         text-decoration: none;
         font-family: Verdana;
         color: rgb(65, 60, 61);
-        font-size: 2.5vw;
+        font-size: 30px;
     }
 
     span {
         text-decoration: none;
         font-family: Verdana;
-        font-size: 4vw;
+        font-size: 36px;
         color: rgb(50, 100, 67);
+    }
+
+    .portfolio {
+        min-height: 350px;
+        min-width: 400px;
+        margin-top: 40px;
+        margin-left: 5px;
+        margin-right: 5px;
     }
 
     footer {
@@ -103,13 +111,13 @@ header {
     }
 }
 
-@media (max-width: 560px) {
+@media (max-width: 990px) {
 
     #toggleMobileMenu a {        
         font-family: Verdana;
         text-decoration: none;
         color:  rgb(65, 60, 61);
-        font-size: 3vw;   
+        font-size: 10px;   
     }
 
     #toggleMobileMenu a:hover {
@@ -121,14 +129,22 @@ header {
         text-decoration: none;
         font-family: Verdana;
         color: rgb(65, 60, 61);
-        font-size: 4.5vw;
+        font-size: 18px;
     }
     
     span {
         text-decoration: none;
         font-family: Verdana;
-        font-size: 5vw;
+        font-size: 24px;
         color: rgb(50, 100, 67);
+    }
+
+    .portfolio {
+        min-height: 250px;
+        min-width: 280px;
+        margin-top: 40px;
+        margin-left: auto;
+        margin-right: auto;
     }
 
     footer {
@@ -153,8 +169,7 @@ header {
     .flex-container-contact {
         position: relative;    
         display:flex;
-        justify-content: center;
-        
+        justify-content: center;        
         margin-top: 50px;
         width: 350px;
         padding: 20px;
@@ -239,15 +254,10 @@ header {
 }
 
 .portfolio {
-    display: flex0;
+    display: flex;
     justify-content: center;
-    height: 300px;
-    width: 350px;
     background-color: rgba(50, 100, 67, 0.25);
     border-radius: 10px;
-    margin-top: 35px;
-    margin-left: 10px;
-    margin-right: 10px;
     box-shadow: 0px 0px 5px 1px rgb(128, 121, 122);       
 }
 
